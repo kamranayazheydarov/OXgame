@@ -6,8 +6,8 @@ ___
 ### TUTORIAL
 
 <p align="center">
-  <img src="https://github.com/levvtol/OXgame/blob/main/black.png">
-  <img src="https://github.com/levvtol/OXgame/blob/main/blue.png">
+  <img src="https://raw.githubusercontent.com/kamranayazheydarov/OXgame/refs/heads/master/black.png">
+  <img src="https://raw.githubusercontent.com/kamranayazheydarov/OXgame/refs/heads/master/blue.png">
 </p>
 
 ___
